@@ -1,1 +1,7 @@
-{"name":"vscode.xml","author":"itsAsanali","language":"xml","license":"none","encoding":"UTF-8"}
+{
+    "name": "vscode.xml",
+    "author": "asanaIi",
+    "language": "xml",
+    "license": "none",
+    "encoding": "UTF-8"
+}
